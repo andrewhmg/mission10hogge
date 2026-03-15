@@ -1,0 +1,12 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# React / Node
+ClientApp/node_modules/
+ClientApp/dist/
+
+# SQLite DB (generated; use Box database or seed data)
+Data/BowlingLeague.db
